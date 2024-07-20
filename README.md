@@ -1,6 +1,7 @@
+<!-- Add this HTML block at the beginning of your README.md file -->
 <div style="background-color: #e6e6fa; padding: 20px; border-radius: 10px;">
 
-![200w](https://github.com/user-attachments/assets/69795b81-b634-4c87-9f38-e75631676ff7)
+<img src="https://github.com/user-attachments/assets/69795b81-b634-4c87-9f38-e75631676ff7" alt="Profile Image" width="200"/>
 
 # Komal Ghazanfar
 
@@ -14,7 +15,6 @@ Turning data into actionable insights – it's not just my skill set, it's my su
 - **Data Visualization:** Tableau, Power BI, Excel
 - **Machine Learning:** Scikit-Learn, TensorFlow, Keras
 - **Tools:** Git, Jupyter, AWS Services, Microsoft Office
-
 
 **Projects**
 
@@ -30,8 +30,6 @@ Turning data into actionable insights – it's not just my skill set, it's my su
   - Developed an interactive Tableau dashboard to present exploratory data analysis (EDA) results.
   - Showcased relationships between bank borrowers and business outcomes using advanced Tableau functionalities.
 
-
-
 **Education**
 
 - **M.S. in Business Analytics**, Hult International Business School (Expected Aug 2024)
@@ -39,7 +37,4 @@ Turning data into actionable insights – it's not just my skill set, it's my su
 
 Feel free to explore my [LinkedIn](https://www.linkedin.com/in/komal-ghazanfar/) and [GitHub repositories](https://github.com/komalghazanfar/my_projects.git) for more information about my work and experience.
 
-
-
 </div>
-
