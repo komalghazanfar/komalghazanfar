@@ -1,4 +1,4 @@
-<div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
+<div style="background-color: #e6e6fa; padding: 20px; border-radius: 10px;">
 
 ![200w](https://github.com/user-attachments/assets/69795b81-b634-4c87-9f38-e75631676ff7)
 
