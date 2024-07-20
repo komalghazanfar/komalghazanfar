@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**komalghazanfar/komalghazanfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![200w](https://github.com/user-attachments/assets/4ce2e086-c91f-472e-b4aa-6b001e7fe743)
 
-Here are some ideas to get you started:
+# Komal Ghazanfar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About**
+
+Turning data into actionable insights – it's not just my skill set, it's my superpower! As a data science graduate student at Hult International Business School, I am passionate about leveraging data to drive decision-making and innovation. With a solid foundation in data analysis, I thrive on solving complex problems and have a keen interest in machine learning, data visualization, and predictive analytics.
+
+**Skills**
+
+- **Programming Languages:** Python, R, SQL
+- **Data Visualization:** Tableau, Power BI, Excel
+- **Machine Learning:** Scikit-Learn, TensorFlow, Keras
+- **Tools:** Git, Jupyter, AWS Services, Microsoft Office
+
+
+**Projects**
+
+- **Strategic Analytics Consultant - Oil & Gas Trading**
+  - Led a transformative analytics project, delivering actionable insights to senior leadership.
+  - Utilized Python and Scikit-Learn for data analysis, optimizing production rights trading strategies.
+
+- **Predictive Model Analysis – Boston Housing Market Prices**
+  - Led a team in predictive modeling using Python, providing business insights on property rentals and purchases.
+  - Produced a report with data visualizations to facilitate decision-making for non-technical stakeholders.
+
+- **Interactive Dashboard Presentation - Strategic Recommendations and Business Report**
+  - Developed an interactive Tableau dashboard to present exploratory data analysis (EDA) results.
+  - Showcased relationships between bank borrowers and business outcomes using advanced Tableau functionalities.
+
+
+
+**Education**
+
+- **M.S. in Business Analytics**, Hult International Business School (Expected Aug 2024)
+- **B.S. in Economics**, Lahore University of Management Sciences (LUMS) (Jun 2019)
+
+Feel free to explore my [LinkedIn](https://www.linkedin.com/in/komal-ghazanfar/) and [GitHub repositories](https://github.com/komalghazanfar/my_projects.git) for more information about my work and experience.
+
