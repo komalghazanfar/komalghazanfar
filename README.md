@@ -1,4 +1,5 @@
-<img src="https://github.com/komalghazanfar/komalghazanfar/blob/main/200w.gif" alt="Header Image" style="width: 100%; height: auto;">
+
+![200w](https://github.com/user-attachments/assets/69795b81-b634-4c87-9f38-e75631676ff7)
 
 # Komal Ghazanfar
 
