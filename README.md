@@ -1,11 +1,5 @@
 <div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
 
-
-Turning data into actionable insights – it's not just my skill set, it's my superpower! 
-
-</div>
-
-
 ![200w](https://github.com/user-attachments/assets/69795b81-b634-4c87-9f38-e75631676ff7)
 
 # Komal Ghazanfar
@@ -44,4 +38,8 @@ Turning data into actionable insights – it's not just my skill set, it's my su
 - **B.S. in Economics**, Lahore University of Management Sciences (LUMS) (Jun 2019)
 
 Feel free to explore my [LinkedIn](https://www.linkedin.com/in/komal-ghazanfar/) and [GitHub repositories](https://github.com/komalghazanfar/my_projects.git) for more information about my work and experience.
+
+
+
+</div>
 
