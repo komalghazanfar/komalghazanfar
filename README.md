@@ -1,4 +1,3 @@
-<!-- Add this HTML block at the beginning of your README.md file -->
 <div style="background-color: #e6e6fa; padding: 20px; border-radius: 10px;">
 
 <img src="https://github.com/user-attachments/assets/69795b81-b634-4c87-9f38-e75631676ff7" alt="Profile Image" width="200"/>
@@ -7,7 +6,7 @@
 
 **About**
 
-Turning data into actionable insights – it's not just my skill set, it's my superpower! As a data science graduate student at Hult International Business School, I am passionate about leveraging data to drive decision-making and innovation. With a solid foundation in data analysis, I thrive on solving complex problems and have a keen interest in machine learning, data visualization, and predictive analytics.
+Turning data into actionable insights – it's not just my skill set, it's my superpower! As a data science junkie, I am passionate about leveraging data to drive decision-making and innovation. 
 
 **Skills**
 
