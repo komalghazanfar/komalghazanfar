@@ -8,7 +8,7 @@ Turning data into actionable insights – it's not just my skill set, it's my su
 
 **Skills**
 
-- **Programming Languages:** Python, R, SQL
+- **Programming Languages:** Python, R, SQL, Snowflake
 - **Data Visualization:** Tableau, Power BI, Excel
 - **Machine Learning:** Scikit-Learn, TensorFlow, Keras
 - **Tools:** Git, Jupyter, AWS Services, Microsoft Office
